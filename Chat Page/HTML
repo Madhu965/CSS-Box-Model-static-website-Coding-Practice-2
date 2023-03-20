@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+
+<head></head>
+
+<body>
+    <div class="bg-container">
+        <h1 class="person-name">Rahul</h1>
+        <div class="messages-container">
+            <P class="message-text message-sent">Hello Rahul,how are you?</p>
+            <P class="message-text message-received">Hi varakumar, i am good. how about you?</P>
+            <P class="message-text message-sent">I'm fine. I published my website recently</P>
+            <P class="message-text message-received">Oh great varaakumar! can you send me the URL?</P>
+            <P class="message-text message-sent">http://varakumar.ccbp.tech</p>
+            <P class="message-text message-received">Awesome varakumar,where did you leran</P>
+            <p class="message-text message-sent">NxtWave CCBP4.0 program</p>
+        </div>
+    </div>
+</body>
+
+</html>
